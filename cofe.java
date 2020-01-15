@@ -6,4 +6,6 @@ int j=90;
 int p=39;
 
 sysout("aa");
+sysout(bb);
+sysout(cc");
 }
