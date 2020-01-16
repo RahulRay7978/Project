@@ -11,4 +11,5 @@ sysout(cc");
 public void m1(){
 //logic
 }
+System.out.println("out");
 }
