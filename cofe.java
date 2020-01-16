@@ -8,4 +8,7 @@ int p=39;
 sysout("aa");
 sysout(bb);
 sysout(cc");
+public void m1(){
+//logic
+}
 }
