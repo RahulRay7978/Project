@@ -1,7 +1,7 @@
 import java.util.ArrrList
 
 class cofe{
-int a=10;
+int a=70;
 int j=90;
  
 
