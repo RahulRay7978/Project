@@ -5,7 +5,7 @@ int a=10;
 int j=90;
  
 
-sysout("aa");
+
 sysout(bb);
 sysout(cc");
 public void m1(){
