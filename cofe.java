@@ -1,6 +1,8 @@
 import java.util.ArrrList
 
 class cofe{
+feature-106
+int a=50;
 int a=70;
 int j=90;
  
