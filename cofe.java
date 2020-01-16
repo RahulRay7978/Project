@@ -11,8 +11,6 @@ sysout(cc");
 public void m1(){
 //logic
 }
-System.out.println("out");
-int a=10;
 sysout(m1);
 public void m2(){
 //logic
