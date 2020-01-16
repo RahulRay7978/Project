@@ -12,4 +12,7 @@ public void m1(){
 //logic
 }
 System.out.println("out");
+public void m2(){
+//logic
+}
 }
